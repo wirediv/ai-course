@@ -27,7 +27,7 @@ export default function Login() {
           alignItems: "center",
           marginRight: "auto",
           marginLeft: "auto",
-          flexDirection: 'column'
+          flexDirection: 'column',
         }}
       >
         <form
@@ -37,6 +37,9 @@ export default function Login() {
             flexDirection: "column",
             width: "400px",
             margin: "auto",
+            padding: '32px',
+            borderRadius: '12px',
+            boxShadow: '0 4px 10px rgba(0, 0, 0, 0.1)',
           }}
         >
           <img src="img/combination-icon.png" width={'100px'} style={{ margin: "auto" }} />
@@ -80,7 +83,7 @@ export default function Login() {
               padding: "10px",
               borderRadius: "5px",
               border: "none",
-              backgroundColor: "#fd5367",
+              backgroundColor: "var(--ifm-color-primary)",
               color: "white",
               marginTop: '1rem'
             }}
