@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Layout from "@theme/Layout";
+import Head from "@docusaurus/Head"; 
 import { signIn } from "@site/src/pocketbase";
 
 export default function Login() {
@@ -15,6 +15,10 @@ export default function Login() {
     setLoading(false)
   };
   return (
+    <>
+    <Head>
+      <title>Login | Wirediv AI Course</title>
+    </Head>
       <div
         style={{
           flexGrow: 1,
@@ -86,5 +90,6 @@ export default function Login() {
           </button>
         </form>
       </div>
+      </>
   )
 }
