@@ -41,7 +41,7 @@ export default function Root({ children }) {
             style={{
               display: "flex",
               flexDirection: "column",
-              width: "200px",
+              width: "400px",
               margin: "auto",
             }}
           >
