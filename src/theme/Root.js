@@ -46,7 +46,7 @@ export default function Root({ children }) {
             }}
           >
             <img src="img/combination-icon.png"  />
-            <h1 style={{marginLeft: 'auto', marginRight: 'auto'}}>Wirediv AI Course</h1>
+            <h1 style={{marginLeft: 'auto', marginRight: 'auto'}}>Wirediv AI Course Langchain</h1>
             <label htmlFor="email" style={{ marginBottom: "10px" }}>
               Email:
             </label>
