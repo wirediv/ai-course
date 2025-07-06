@@ -34,7 +34,7 @@ export default function ColorModeToggleWrapper(props) {
             marginTop: '10px',
             padding: '8px 12px',
             borderRadius: '6px',
-            color: 'var(--ifm-color-primary-dark)',
+            color: 'var(--ifm-color-primary-light)',
             border: 'none',
             cursor: 'pointer',
             marginRight: '5px',

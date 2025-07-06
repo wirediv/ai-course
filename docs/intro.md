@@ -45,3 +45,14 @@ The `cd` command changes the directory you're working with. In order to work wit
 The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
 
 Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+
+<iframe
+  width="100%"
+  height="450"
+  src="https://www.youtube.com/embed/osKyvYJ3PRM"
+  title="YouTube video player"
+  frameBorder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowFullScreen
+  style={{ maxWidth: 800, margin: "0 auto", display: "block" }}
+/>

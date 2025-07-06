@@ -84,7 +84,7 @@ const config = {
         title: 'Wirediv AI',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.jpg',
         },
         items: [
           {
@@ -144,7 +144,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Wirediv.`,
       },
       prism: {
         theme: prismThemes.github,

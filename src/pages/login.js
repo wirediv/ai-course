@@ -42,7 +42,7 @@ export default function Login() {
             boxShadow: '0 4px 10px rgba(0, 0, 0, 0.1)',
           }}
         >
-          <img src="img/combination-icon.png" width={'100px'} style={{ margin: "auto" }} />
+          <img src="img/logo.jpg" width={'100px'} style={{ margin: "auto" }} />
           <h1 style={{ marginLeft: 'auto', marginRight: 'auto' }}>Wirediv</h1>
           <h2 style={{ marginLeft: 'auto', marginRight: 'auto' }}>AI Course</h2>
           <label htmlFor="email" style={{ marginBottom: "10px" }}>
