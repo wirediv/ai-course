@@ -91,7 +91,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Course',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -108,7 +108,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Course',
                 to: '/docs/intro',
               },
             ],
@@ -118,15 +118,15 @@ const config = {
             items: [
               {
                 label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                href: '#',
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: '#',
               },
               {
                 label: 'X',
-                href: 'https://x.com/docusaurus',
+                href: '#',
               },
             ],
           },
